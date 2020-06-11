@@ -1,7 +1,7 @@
 def using_until
-  Wingardium Leviosa = 6
+  Wingardium_Leviosa = 6
   until Wingardium Leviosa == 10
     puts "Wingardium Leviosa"
-    Wingardium Leviosa += 1
+    Wingardium_Leviosa += 1
   end
 end
