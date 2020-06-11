@@ -1,5 +1,3 @@
-
-
 def using_until
   Wingardium Leviosa = 6
   until Wingardium Leviosa == 10
