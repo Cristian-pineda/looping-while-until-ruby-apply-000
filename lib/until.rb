@@ -3,6 +3,6 @@ def using_until
   #your code here
   until levitation_force == 20
   puts "levitation_force"
-   counter += 1
+   levitation_force += 1
  end
 end
